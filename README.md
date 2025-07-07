@@ -65,7 +65,7 @@ The dataset includes customer order-level information and is organized around th
 
 | Weekly Revenue | Top Products |
 |----------------|---------------|
-| ![Weekly Revenue](screenshots/weekly_revenue.png) | ![Top Products](screenshots/top_products.png) |
+| ![Weekly Revenue](https://github.com/imrahs/cafe-dashboard/blob/main/Screenshot%202025-07-07%20220040.png) | 
 
 ---
 
